@@ -1,4 +1,4 @@
 #functional components
-#tailwind Css
+#tailwind CSS
 #Cart using Redux
 #Custom Hooks
